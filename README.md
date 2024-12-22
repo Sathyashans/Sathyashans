@@ -1,6 +1,6 @@
 # 🌟 S Sathya  
 
-👨‍💻 **Passionate Programmer** | 💡 **Innovative Thinker** | 📚 **Lifelong Learner**  
+👨‍💻 **Passionate Programmer** | 💡 **Innovative Thinker** |
 
 Welcome to my GitHub profile! I’m currently pursuing **B.Tech in Computer Science and Business Systems** at **KIT Kalaignarkarunanidhi Institute of Technology**. 
 My passion for technology drives me to explore innovative solutions, particularly in **Web Development** and **Creative Problem-Solving**.  
